@@ -1,4 +1,4 @@
--  Hi, I’m a French Game programmer in studies
+-  Hi, I’m a French Game programmer in study
 - 🔰 I’m currently learning at E-artsup
 - ⌨️ Currently learning Blueprint, C# and C++ 
 - 🎶 I’m also working on the upcomming game DeltaDash
